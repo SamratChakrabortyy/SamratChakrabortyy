@@ -2,7 +2,7 @@
 <h1 align="center"><b>Hi , I'm Samrat Chakraborty </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Time+New+Roman&color=cyan&size=25%C2%A2er=true&vCenter=true&width=600&height=100&lines=Welcome,%20I%20am%20grateful%20you%20visited..%E2%99%A5++;Back-End%20Developer,;SDE%20III%20at%20Upstox,;Love+to+learn+new+stuffs..%3C3;LET%27S%20CODE%20IT%20OUT!%20Peace!!">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Time+New+Roman&color=cyan&size=25%C2%A2er=true&vCenter=true&width=600&height=100&lines=Welcome,+I+am+grateful+you+visited..%E2%99%A5++;++++Back-End+Developer,;SDE+III+at+Upstox,;Love+to+learn+new+stuffs..%3C3;LET%27S+CODE+IT+OUT!+Peace!!">
 </p>
 
 
