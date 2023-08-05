@@ -8,8 +8,6 @@
 
 <br>
 
-
-
 	
 ## <picture><img src = "./assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
